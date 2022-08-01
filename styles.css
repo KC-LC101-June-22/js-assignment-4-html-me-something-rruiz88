@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+#job {
+    background-color: #666;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+  footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+  #cars {
+    background-color: rgb(35, 68, 188);
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+.funParagraph {
+    color: green;
+
+}
+
+.EV {
+    background-color: rgb(35, 68, 188);
+}
+
+span {
+    color: red;
+}

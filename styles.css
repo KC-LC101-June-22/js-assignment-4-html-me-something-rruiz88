@@ -36,3 +36,8 @@
 span {
     color: red;
 }
+
+body {
+  margin: 8px;
+  display: block;
+}

@@ -1,11 +1,11 @@
 /* Write your CSS here! */
-#job {
+#mainHeading {
     background-color: #666;
     padding: 5px;
     margin-top: 10px;
     text-align: center;
     font-size: 35px;
-    color: white;
+    color: red;
   }
 
   footer {

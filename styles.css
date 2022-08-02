@@ -8,14 +8,14 @@
     color: red;
   }
 
-  footer {
+footer {
     background-color: #777;
     padding: 10px;
     text-align: center;
     color: white;
   }
 
-  #cars {
+#cars {
     background-color: rgb(35, 68, 188);
     padding: 5px;
     margin-top: 10px;
@@ -31,10 +31,6 @@
 
 .EV {
     background-color: rgb(35, 68, 188);
-}
-
-span {
-    color: red;
 }
 
 body {
